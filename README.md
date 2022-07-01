@@ -1,1 +1,1 @@
-# midwest-datascience.github.io
+# Midwest Datascience
